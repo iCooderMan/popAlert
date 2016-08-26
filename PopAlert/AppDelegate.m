@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  PopAlert
 //
-//  Created by Almas on 16/8/26.
+//  Created by Ali on 16/8/26.
 //  Copyright © 2016年 Ali. All rights reserved.
 //
 
